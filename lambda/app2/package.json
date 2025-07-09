@@ -1,0 +1,11 @@
+{
+  "name": "app2-lambdas",
+  "version": "1.0.0",
+  "description": "Lambda functions for App2",
+  "main": "index.js",
+  "dependencies": {
+    "jsonwebtoken": "^9.0.2",
+    "jwks-rsa": "^3.0.1",
+    "@aws-sdk/client-cognito-identity-provider": "^3.400.0"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "app1-lambdas",
+  "version": "1.0.0",
+  "description": "Lambda functions for App1",
+  "main": "index.js",
+  "dependencies": {
+    "@aws-sdk/client-cognito-identity-provider": "^3.400.0",
+    "node-fetch": "^2.7.0"
+  }
+}
